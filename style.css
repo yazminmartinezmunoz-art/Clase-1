@@ -1,15 +1,22 @@
-
+.cuerpo{
+    justify-content: center;
+    align-items: stretch;
+}
 
 .saludo {
- color: blueviolet;
+ justify-content: center;
+ align-items: stretch;
+ color: burlywood;
 }
 
 .respuesta-bien{
  color: forestgreen;
  background-color: chartreuse;
+ border-radius: 30px 60px;
 }
 
 .respuesta-mal{
  color: darkred;
  background-color: black;
+ border-radius: 30px 60px;
 }
