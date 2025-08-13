@@ -1,0 +1,15 @@
+
+
+.saludo {
+ color: blueviolet;
+}
+
+.respuesta-bien{
+ color: forestgreen;
+ background-color: chartreuse;
+}
+
+.respuesta-mal{
+ color: darkred;
+ background-color: black;
+}
